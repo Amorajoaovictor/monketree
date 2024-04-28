@@ -7,9 +7,8 @@ export default function Home() {
   return (
     <>
     <div className="relative m-auto">
-      <Botao  props={{link:"https://instagram.com.br",name:"@miakhalifa"}}/>
+      <Botao  props={{link:"https://instagram.com",name:"@miakhalifa"}}/>
     </div>
     </> 
   );
 }
-
